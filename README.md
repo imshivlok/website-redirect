@@ -1,4 +1,8 @@
 <div align="center">
+  ![GitHub repo size](https://img.shields.io/github/repo-size/imshivlok/website-redirect)
+  ![GitHub stars](https://img.shields.io/github/stars/imshivlok/website-redirect?style=social)<br>
+  ![GitHub forks](https://img.shields.io/github/forks/imshivlok/website-redirect?style=social)
+  ![Progress](https://img.shields.io/badge/HTML-FFA500)<br>
   <h2>website-redirect</h2>
   Redirects user to a specified website.<br>Built using HTML.
 </div>
